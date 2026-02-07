@@ -4,7 +4,7 @@ services:
   - type: web
     name: tct
     runtime: docker
-    repo: https://github.com/tct9428/tct
+    repo: https://github.com/Diablo123-web/tct1.git
     plan: free
     region: virginia
     dockerContext: .
